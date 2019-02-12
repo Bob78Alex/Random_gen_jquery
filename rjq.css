@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+}
+h1, p {
+	color: white;
+	font-family: Arial;
+}
+p{
+	font-size: 20px;}
+
+img{
+	padding: 30px;
+}
+.quotes{
+	background-color: #F0FFFF;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 30px;
+	border-color: #363636;
+	border-style: solid;
+	border-radius: 5px;
+	height: auto;
+	font-size: 20px;
+	font-family: Arial;
+
+}
+.btn {
+	margin: 30px;
+	background-color: #7FFFD4;
+}
