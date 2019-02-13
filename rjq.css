@@ -29,3 +29,7 @@ img{
 	margin: 30px;
 	background-color: #7FFFD4;
 }
+.author{
+	font-style: italic;
+	font-size: 14px;
+}
